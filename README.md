@@ -23,11 +23,10 @@ I'm a **Web3 Developer, AI & Data Science Enthusiast, and Backend Engineer** pas
 ## 🌍 Socials
 <p>
   <a href="https://linkedin.com/in/nikolaussatria">
-    <img src="https://github.com/user-attachments/assets/7313d9f3-87fa-4f42-9535-49585f661fe1" width="50px">
+    <img src="https://github.com/user-attachments/assets/7313d9f3-87fa-4f42-9535-49585f661fe1">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/nikolaussatria/">
-    <img src="https://github.com/user-attachments/assets/de150424-0106-4127-8d5a-9e5f2bd0f018" width="50px">
+    <img src="https://github.com/user-attachments/assets/de150424-0106-4127-8d5a-9e5f2bd0f018">
   </a>
 </p>
 
