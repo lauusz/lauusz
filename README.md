@@ -14,6 +14,7 @@ I'm a **Web3 Developer, AI & Data Science Enthusiast, and Backend Engineer** pas
 ![Image](https://github.com/user-attachments/assets/f16633b3-afdf-45a9-9fe9-740ca31d269f)
 ![Image](https://github.com/user-attachments/assets/261ab522-c605-4f98-9dd0-5509df03e64a)
 ![Image](https://github.com/user-attachments/assets/57988036-50b4-47d5-ac2d-e99d36ce540f)
+![Image](https://github.com/user-attachments/assets/450e11d0-86dd-4a0a-a248-48c414d358d5)
 
 ## 🚀 Currently Exploring  
 - **AI Agents for automation**  
