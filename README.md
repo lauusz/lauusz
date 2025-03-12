@@ -1,13 +1,12 @@
-🚀 Hey, I'm Niko! 👋
-I'm a Web3 Developer, AI & Data Science Enthusiast, and Backend Engineer passionate about building decentralized systems, AI-powered applications, and scalable backend architectures.
+# 🚀 Hey, I'm Nikolaus! 👋  
 
-💡 What I Do:
+I'm a **Web3 Developer, AI & Data Science Enthusiast, and Backend Engineer** passionate about building **decentralized systems, AI-powered applications, and scalable backend architectures**.  
 
-🔹 Web3 Development – Smart Contracts, DApps, and Blockchain solutions
-🤖 AI Agents & Machine Learning – Automating interactions and decision-making
-📊 Data Science – Transforming raw data into meaningful insights
-🏗️ Backend Development – Building scalable and efficient systems
-🛠️ Tech Stack:
+## 💡 What I Do  
+- 🔹 **Web3 Development** – Smart Contracts, DApps, and Blockchain solutions  
+- 🤖 **AI Agents & Machine Learning** – Automating interactions and decision-making  
+- 📊 **Data Science** – Transforming raw data into meaningful insights  
+- 🏗️ **Backend Development** – Building scalable and efficient systems  
 
 ![Image](https://github.com/user-attachments/assets/9489dbd9-3a27-4586-819c-2cc5d022553d)
 ![Image](https://github.com/user-attachments/assets/d76fd144-8f7b-4f8f-b081-2558daf5f8fc)
@@ -15,12 +14,10 @@ I'm a Web3 Developer, AI & Data Science Enthusiast, and Backend Engineer passion
 ![Image](https://github.com/user-attachments/assets/261ab522-c605-4f98-9dd0-5509df03e64a)
 ![Image](https://github.com/user-attachments/assets/57988036-50b4-47d5-ac2d-e99d36ce540f)
 
-🚀 Currently Exploring:
-
-AI Agents for automation
-Integrating AI & Web3
-Data-driven backend solutions
-📫 Let's Connect!
+## 🚀 Currently Exploring  
+- **AI Agents for automation**  
+- **Integrating AI & Web3**  
+- **Data-driven backend solutions**  
 
 
 
