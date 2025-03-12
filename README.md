@@ -8,6 +8,7 @@ I'm a **Web3 Developer, AI & Data Science Enthusiast, and Backend Engineer** pas
 - 📊 **Data Science** – Transforming raw data into meaningful insights  
 - 🏗️ **Backend Development** – Building scalable and efficient systems  
 
+## 🛠️ Tech Stack 
 ![Image](https://github.com/user-attachments/assets/9489dbd9-3a27-4586-819c-2cc5d022553d)
 ![Image](https://github.com/user-attachments/assets/d76fd144-8f7b-4f8f-b081-2558daf5f8fc)
 ![Image](https://github.com/user-attachments/assets/f16633b3-afdf-45a9-9fe9-740ca31d269f)
